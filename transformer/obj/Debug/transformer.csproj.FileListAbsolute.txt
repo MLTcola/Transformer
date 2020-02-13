@@ -1,0 +1,9 @@
+C:\Users\logan\Desktop\transformer\transformer\bin\Debug\transformer.exe.config
+C:\Users\logan\Desktop\transformer\transformer\bin\Debug\transformer.exe
+C:\Users\logan\Desktop\transformer\transformer\bin\Debug\transformer.pdb
+C:\Users\logan\Desktop\transformer\transformer\obj\Debug\transformer.csprojResolveAssemblyReference.cache
+C:\Users\logan\Desktop\transformer\transformer\obj\Debug\transformer.Form1.resources
+C:\Users\logan\Desktop\transformer\transformer\obj\Debug\transformer.Properties.Resources.resources
+C:\Users\logan\Desktop\transformer\transformer\obj\Debug\transformer.csproj.GenerateResource.Cache
+C:\Users\logan\Desktop\transformer\transformer\obj\Debug\transformer.exe
+C:\Users\logan\Desktop\transformer\transformer\obj\Debug\transformer.pdb
